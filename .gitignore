@@ -398,3 +398,46 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Roslyn compiler files (in bin/roslyn)
+bin/roslyn/
+
+# Database files (exclude local MDF/LDF unless you want a sample DB)
+*.mdf
+*.ldf
+
+# Configuration files with sensitive data
+Web.config  # Exclude if it has secrets; commit a template like Web.example.config instead
+Web.Debug.config
+Web.Release.config
+appsettings.json
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
