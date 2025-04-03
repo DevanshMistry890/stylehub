@@ -57,23 +57,23 @@
                 <div class="col-6 col-md-2 mb-5 mb-lg-0">
                     <span class="h5">Stylehub</span>
                     <ul class="footer-links mt-2">
-                        <li><a target="_blank" href="">Blog</a></li>
-                        <li><a target="_blank" href="">Themes</a></li>
-                        <li><a target="_blank" href="">About Us</a></li>
-                        <li><a target="_blank" href="">Contact Us</a></li>
+                        <li><a target="_blank" href="#">Blog</a></li>
+                        <li><a target="_blank" href="#">Themes</a></li>
+                        <li><a target="_blank" href="#">About Us</a></li>
+                        <li><a target="_blank" href="#">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md-2 mb-5 mb-lg-0">
                     <span class="h5">Other</span>
                     <ul class="footer-links mt-2">
-                        <li><a href=""
+                        <li><a href="#"
                             target="_blank">Docs</a></li>
-                        <li><a href=""
+                        <li><a href="#"
                             target="_blank">Changelog</a></li>
-                        <li><a target="_blank" href="">License</a>
+                        <li><a target="_blank" href="#">License</a>
                         </li>
                         <li><a target="_blank"
-                            href="">Support</a></li>
+                            href="#sss">Support</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-4 mb-5 mb-lg-0">
